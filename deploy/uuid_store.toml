@@ -1,0 +1,14 @@
+# UUID Store
+#!md| [TOML file](https://toml.io/en/)
+
+[stores]
+python = '..'
+
+[families]
+cute = "67486250-5dbf-11ed-85a7-d0817aaf398c"
+
+[projects.cute]
+core = "c7856c22-5d4b-11ed-989b-d0817aaf398c"
+
+[files.py]
+fuuid = "627398e0-5d4b-11ed-8755-d0817aaf398c"
